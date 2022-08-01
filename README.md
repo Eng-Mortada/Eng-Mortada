@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eng-Mortada
 - 👀 I’m interested in web develpement ...
-- 🌱 I’m currently learning ..php and data analysis.
+- 🌱 I’m currently learning ..data analysis.
 - 💞️ I’m looking to collaborate on ..web design.
 - 📫 How to reach me . you can reatch me by email.
 
